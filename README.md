@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @amethystaurora-robo
-- 👀 I’m interested in Java programming, Web development, and front-end development
-- 🌱 I’m currently working on developing a web application in SpringBoot and learning React.js
-- 📫 How to reach me: ameest95@gmail.com
+- 🎓 MSc in **Bioinformatics**, exploring a future in **machine learning** for toxicology research!
+- 🔬 Currently a **Research Assistant** automating processes and building interfaces for a **particle simulator**.
+- 🌱 Future goal: Develop **machine learning algorithms** for toxicity testing and create a **digital twin** for in-silico testing.
+- 🧬 Past projects:
+  - Correlated **pesticide concentrations** and **fish populations** in UK waterways.
+  - Developed a novel **bioinformatics pipeline** for **temporal analysis** of the **Daphnia magna** transcriptome.
+- 📫 Reach me: ameest95@gmail.com
 
 <!---
 amethystaurora-robo/amethystaurora-robo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
