@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @amethystaurora-robo
 - 🎓 MSc in **Bioinformatics**, exploring a future in **machine learning** for toxicology research!
-- 🔬 Currently a **Research Assistant** automating processes and building interfaces for a **particle simulator**.
-- 🌱 Future goal: Develop **machine learning algorithms** for toxicity testing and create a **digital twin** for in-silico testing.
+- 🔬 Currently a **Research Assistant** automating processes and building an interface for a **particle simulator**.
+- 🌱 Future goal: Develop **machine learning algorithms** and create a **digital twin** for in-silico toxicity testing.
 - 🧬 Past projects:
-  - Correlated **pesticide concentrations** and **fish populations** in UK waterways.
   - Developed a novel **bioinformatics pipeline** for **temporal analysis** of the **Daphnia magna** transcriptome.
+  - Correlated **pesticide concentrations** and **fish populations** in UK waterways.
 - 📫 Reach me: ameest95@gmail.com
 
 <!---
