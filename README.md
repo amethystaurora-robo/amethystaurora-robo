@@ -1,7 +1,7 @@
 ![My Banner](https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/github_header.png)
-👋 Hi, I’m Amethyst Aurora Eicher
-# 👋 Hi, I'm Amethyst Aurora!
-### Computational Modeler | Researcher | Environmental Data Scientist  
+
+# 👋 Hi, I'm Amethyst Aurora Eicher!
+### Computational Modeller | Researcher | Environmental Data Scientist  
 
 🔬 I specialize in **computational modeling, graph ML, and environmental monitoring.**  
 💻 Working with **Python, Fortran, HDF5, MPI, Tecplot, and Machine Learning.**  
