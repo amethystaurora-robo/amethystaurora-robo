@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @amethystaurora-robo
+- 👋 Hi, I’m Amethyst Aurora Eicher
+![My Banner](https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/Add a little bit of body text.png)
+
 - 🎓 MSc in **Bioinformatics**, exploring a future in **machine learning** for impacts on health, environment, and toxicology.
 - 🌱 Future goal: Develop **machine learning algorithms** and create a **digital twin** for in-silico toxicity testing.
 - 🧬 Past projects:
