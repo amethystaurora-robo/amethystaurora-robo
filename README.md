@@ -46,6 +46,7 @@
 <p align="left">
   <img src=https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%201%20(3).png
 </p>
+### 💱 Billionare Analysis
 ### 😴 Sleep and Health Analysis
 <p align="left">
   <img src=https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%201%20(4).png
