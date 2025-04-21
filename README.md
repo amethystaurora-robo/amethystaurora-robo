@@ -37,7 +37,19 @@
 
 ---
 
-## 📌 **Featured Projects**  
+## 📈 **Portfolio Visualisations**
+
+### 💱 Billionare Analysis
+<p align="left">
+  <img src=https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%202%20(1).png
+</p>
+<p align="left">
+  <img src=https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%201%20(3).png
+</p>
+
+---
+
+## 🦔 **Environmental Modelling + Bioinformatics**  
 
 ### 🧬 Computational Modelling Pipeline for Omics Data  
 This complete bioinformatics pipeline integrates traditional statistical analysis with cutting-edge graph machine learning to analyse transcriptomic and metabolomic samples of Daphnia magna. The organism in this pipeline has been treated with ethoprophos, an organophosphate pesticide, but the pipeline could be applied to any transcriptomic and metabolomic sample datasets. This allows for a network analysis of pathways affected under ethoprophos dosage.
