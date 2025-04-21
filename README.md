@@ -1,12 +1,12 @@
 ![My Banner](https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/github_header.png)
 
 # 👋 Hi, I'm Amethyst Aurora Eicher!
-### Computational Modeller | Environmental Researcher | Data Scientist
+### Data Scientist | Computational Modeller | Environmental Researcher 
 
-🔬 I specialize in **environmental modelling, graph ML, and computational biology.**  
+🔬 I specialize in **graph ML, statistical modelling & environmental research.**  
 💻 Working with **Python, Fortran, R, SQL, and Machine Learning.**  
-📊 Researching **biomolecular responses to stress & biodiversity loss models.**  
 🌱 Passionate about **eco-toxicology, AI for science, and data visualisation.**  
+📊 Researching **biomolecular responses to stress & biodiversity loss models.**  
 
 ---
 
