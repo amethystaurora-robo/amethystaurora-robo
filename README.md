@@ -41,20 +41,14 @@
 
 ### 💱 Billionare Analysis
 <p align="left">
-  <img src=https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%202%20(3).png/>
+  <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%202%20(3).png"/>
 </p>
 <p align="left">
-  <img src=https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%201%20(3).png/>
+  <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%201%20(3).png"/>
 </p>
 ### 😴 Sleep and Health Analysis
 <p align="left">
-  <img src=https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%201%20(4).png/>
-</p>
-<p 
-  See more!🖱️
-  <a href="https://public.tableau.com/app/profile/amethyst.eicher/vizzes" target="_blank">
-    <img src="https://img.shields.io/badge/See%20Vizzes-766090?style=for-the-badge&logo=tableau&logoColor=white"/>
-  </a>
+  <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%201%20(4).png"/>
 </p>
 
 
