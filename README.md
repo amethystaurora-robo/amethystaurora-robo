@@ -91,21 +91,6 @@ As a Research Assistant, I was involved in modifying simulation code for computa
 
 ---
 
-## 🎨 **Just for Fun**  
-
-### 🐦 CrowvRaven: A Brief Analysis  
-A visualisation for exploring the difference between crows and ravens. Is it a matter of semantics or DNA?
-<p align="left">
-  <a href="https://github.com/amethystaurora-robo/CrowvRaven" target="_blank">
-    <img src="https://img.shields.io/badge/View%20GitHub-059541?style=for-the-badge&logo=github&logoColor=white&borderRadius=20"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/amethyst.eicher/viz/DifferencesbetweenCrowsandRavens/DifferencesBetweenCrowsandRavens" target="_blank">
-    <img src="https://img.shields.io/badge/See%20Vizzes-766090?style=for-the-badge&logo=tableau&logoColor=white&borderRadius=20"/>
-  </a>
-</p>
-
----
-
 ## 🔜 **Coming Soon**  
 
 ### 📱 App Release - Animal ID App 
