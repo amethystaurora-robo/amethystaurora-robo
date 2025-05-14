@@ -51,13 +51,10 @@
 ## 🦔 **Environmental Modelling + Bioinformatics**  
 
 ### 🧬 Computational Modelling Pipeline for Omics Data  
-This complete bioinformatics pipeline integrates traditional statistical analysis with cutting-edge graph machine learning to analyse transcriptomic and metabolomic samples of Daphnia magna. The organism in this pipeline has been treated with ethoprophos, an organophosphate pesticide, but the pipeline could be applied to any transcriptomic and metabolomic sample datasets. This allows for a network analysis of pathways affected under ethoprophos dosage.
+This complete bioinformatics pipeline integrates traditional statistical analysis with cutting-edge graph machine learning to analyse transcriptomic and metabolomic samples of *Daphnia magna*. The organism in this pipeline has been treated with ethoprophos, an organophosphate pesticide, but the pipeline could be applied to any transcriptomic and metabolomic sample datasets. This allows for a network analysis of pathways affected under ethoprophos dosage.
 <p align="left">
   <a href="https://github.com/amethystaurora-robo/Network_bio" target="_blank">
-    <img src="https://img.shields.io/badge/View%20GitHub-059541?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/amethyst.eicher/vizzes" target="_blank">
-    <img src="https://img.shields.io/badge/See%20Vizzes-766090?style=for-the-badge&logo=tableau&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
