@@ -9,6 +9,8 @@
 ✅ **Expand expertise in deep learning & bioinformatics**  
 ✅ **Collaborate on open-source projects and innovative research**  
 
+🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
+
 ---
 
 ## 🔧 **Tech & Tools I Use**  
@@ -45,7 +47,7 @@
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%201%20(4).png"/>
 </p>
 
-
+### 🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
 ---
 
 ## 🦔 **Environmental Modelling + Bioinformatics**  
@@ -89,6 +91,8 @@ As a Research Assistant, I was involved in modifying simulation code for computa
   </a>
 </p>
 
+### 🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
+
 ---
 
 ## 🔜 **Coming Soon**  
@@ -108,6 +112,7 @@ A research paper on Graph Machine Learning for toxicology.
 ---
 
 ## 📫 **Connect With Me**  
+🏹 [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823)   
 💼 [LinkedIn](https://www.linkedin.com/in/amethyst-eicher-1a5998216/)  
 🌐 [Website](https://ameest95.wixsite.com/my-site-5)  
 📊 [Tableau Portfolio](https://public.tableau.com/app/profile/amethyst.eicher/vizzes)  
