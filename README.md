@@ -5,7 +5,6 @@
 
 ## 🚀 **Future Goals & Career Aspirations (Please hire me, I am desperate)**  
 ✅ **Work in computational biology, AI for environmental science, or ML research**  
-✅ **Develop data-driven models for ecological and biomedical applications**  
 ✅ **Expand expertise in deep learning & bioinformatics**  
 ✅ **Collaborate on open-source projects and innovative research**  
 
@@ -67,7 +66,7 @@ This project involved an analysis of fish populations vs. chemical concentration
 - a published academic poster, which I presented at the Partnership for the Assessment of Risks (PARC) UK Day in May 2024, and the Centre for Environmental Research and Justice (CERJ) Conference, in June 2024.
 <p align="left">
   <a href="https://github.com/your-repo" target="_blank">
-    <img src="https://img.shields.io/badge/View%20GitHub-059541?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://public.tableau.com/app/profile/amethyst.eicher/vizzes" target="_blank">
     <img src="https://img.shields.io/badge/See%20Vizzes-766090?style=for-the-badge&logo=tableau&logoColor=white"/>
