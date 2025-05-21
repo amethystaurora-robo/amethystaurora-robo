@@ -111,9 +111,11 @@ A research paper on Graph Machine Learning for toxicology.
 ---
 
 ## 📫 **Connect With Me**  
-🏹 [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823)   
-💼 [LinkedIn](https://www.linkedin.com/in/amethyst-eicher-1a5998216/) 
-📧 Email: ameest95@gmail.com  
+<p>
+  🏹 <a href="https://www.upwork.com/freelancers/~01218f57ed8d2bb823">UpWork</a><br>
+  💼 <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a><br>
+  📧 Email: ameest95@gmail.com
+</p>
 
 
 
