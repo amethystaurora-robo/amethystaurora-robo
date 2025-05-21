@@ -63,7 +63,7 @@ This complete bioinformatics pipeline integrates traditional statistical analysi
 This project involved an analysis of fish populations vs. chemical concentrations in waterways in the UK. The outputs of this project were:
 - the successful identification of 5 pesticides extant in UK waterways which may be driving biodiversity loss using a novel machine learning algorithm.
 - the deployment of an interactive map, allowing the user to explore chemicals in UK waterways over time
-- a published academic poster, which I presented at the Partnership for the Assessment of Risks (PARC) UK Day in May 2024, and the Centre for Environmental Research and Justice (CERJ) Conference, in June 2024.
+- an academic poster, which I presented at the Partnership for the Assessment of Risks (PARC) UK Day in May 2024, and the Centre for Environmental Research and Justice (CERJ) Conference, in June 2024.
 <p align="left">
   <a href="https://github.com/your-repo" target="_blank">
     <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
