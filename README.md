@@ -12,36 +12,6 @@
 
 ---
 
-## 🔧 **Tech & Tools I Use**  
-<p align="center">
-  <!-- Top Tier -->
-  <img src="https://img.shields.io/badge/Python-059541?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-766090?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
-<p align="center">
-  <!-- Mid Tier -->
-  <img src="https://img.shields.io/badge/scikit--learn-059541?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-059541?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-059541?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-<p align="center">
-  <!-- Mid-Low Tier -->
-  <img src="https://img.shields.io/badge/Numpy-059541?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-059541?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-ba95c6?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-d8a8a5?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-<p align="center">
-  <!-- Bottom Tier -->
-  <img src="https://img.shields.io/badge/Databricks-d8a8a5?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-7d3f4e?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-7d3f4e?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
-
-
-
----
-
 ## 📈 **Portfolio Visualisations**
 
 ### 💱 Billionare Analysis
@@ -102,6 +72,34 @@ As a Research Assistant, I was involved in modifying simulation code for computa
 </p>
 
 ### 🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
+
+---
+
+## 🔧 **Tech & Tools I Use**  
+<p align="center">
+  <!-- Top Tier -->
+  <img src="https://img.shields.io/badge/Python-059541?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-766090?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+<p align="center">
+  <!-- Mid Tier -->
+  <img src="https://img.shields.io/badge/scikit--learn-059541?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-059541?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-059541?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
+<p align="center">
+  <!-- Mid-Low Tier -->
+  <img src="https://img.shields.io/badge/Numpy-059541?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-059541?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-ba95c6?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-d8a8a5?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+<p align="center">
+  <!-- Bottom Tier -->
+  <img src="https://img.shields.io/badge/Databricks-d8a8a5?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-7d3f4e?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-7d3f4e?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
 ---
 
