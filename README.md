@@ -16,15 +16,15 @@
 
 ### 💱 Billionare Analysis
 <p align="left">
-  <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%202%20(3).png"/>
+  <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_billionaire_birthdays.png"/>
 </p>
 <p align="left">
-  <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%201%20(3).png"/>
+  <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_billionaire_countries.png"/>
 </p>
 
 ### 😴 Sleep and Health Analysis
 <p align="left">
-  <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/Dashboard%201%20(4).png"/>
+  <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_sleep.png"/>
 </p>
 
 ### 🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
@@ -41,8 +41,12 @@ This complete bioinformatics pipeline integrates traditional statistical analysi
 </p>
 
 ### 🌍 Environmental Biodiversity Loss Models  
+<p align="left">
+  <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/fish_pop_chem.png" width="500"/>
+</p>
+
 This project involved an analysis of fish populations vs. chemical concentrations in waterways in the UK. The outputs of this project were:
-- the successful identification of 5 pesticides extant in UK waterways which may be driving biodiversity loss using a novel machine learning algorithm.
+- the successful identification of 5 pesticides extant in UK waterways which may be driving biodiversity loss using a novel machine learning algorithm. 
 - the deployment of an interactive map, allowing the user to explore chemicals in UK waterways over time
 - an academic poster, which I presented at the Partnership for the Assessment of Risks (PARC) UK Day in May 2024, and the Centre for Environmental Research and Justice (CERJ) Conference, in June 2024.
 <p align="left">
