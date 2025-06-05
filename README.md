@@ -82,31 +82,28 @@ As a Research Assistant, I was involved in modifying simulation code for computa
 ### 🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
 
 ---
+## 🐦‍⬛ Just for Fun**
 
-## 🔧 **Tech & Tools I Use**  
-<p align="center">
-  <!-- Top Tier -->
-  <img src="https://img.shields.io/badge/Python-059541?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-766090?style=for-the-badge&logo=tableau&logoColor=white"/>
+#Part 1
+
+In a lot of languages, the word for crow and raven are the same. In English, the word 'crow' tends to be associated with a pest, or at the least common, ordinary bird. But I took a look at a phylogenetic tree and ravens are not really clustered in one area of the branchings. It made me wonder, what are the common physical differences people associate with ravens vs crows, and is there actually a difference?
+
+Click below to find out more.
+
+<p align="left">
+  <a href="https://github.com/amethystaurora-robo/CrowvRaven" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-<p align="center">
-  <!-- Mid Tier -->
-  <img src="https://img.shields.io/badge/scikit--learn-059541?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-059541?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-059541?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-<p align="center">
-  <!-- Mid-Low Tier -->
-  <img src="https://img.shields.io/badge/Numpy-059541?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-059541?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-ba95c6?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-d8a8a5?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-<p align="center">
-  <!-- Bottom Tier -->
-  <img src="https://img.shields.io/badge/Databricks-d8a8a5?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-7d3f4e?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-7d3f4e?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+#Part 2
+
+I recently tested ChatGPT to see if it could play 20 Questions with me (after hinting already that I am thinking of an animal). Chat lost! And in fact, Chat lost over and over again. I've been developing this game since I first learned how to code, and tbh I am still working on the frontend, but when it's finished, it will (I believe very effectively) be able to guess your animal in 20 questions or less.
+
+<p align="left">
+  <a href="https://github.com/amethystaurora-robo/Animal_Guessing_Game" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
