@@ -82,9 +82,9 @@ As a Research Assistant, I was involved in modifying simulation code for computa
 ### 🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
 
 ---
-## 🐦‍⬛ Just for Fun
+## 🐞 Just for Fun
 
-## Part 1
+## 🐦‍⬛ Part 1
 
 In a lot of languages, the word for crow and raven are the same. In English, the word 'crow' tends to be associated with a pest, or at the least common, ordinary bird. But I took a look at a phylogenetic tree and ravens are not really clustered in one area of the branchings. It made me wonder, what are the common physical differences people associate with ravens vs crows, and is there actually a difference?
 
@@ -96,7 +96,7 @@ Click below to find out more.
   </a>
 </p>
 
-## Part 2
+## 🐻 Part 2
 
 I recently tested ChatGPT to see if it could play 20 Questions with me (after hinting already that I am thinking of an animal). Chat lost! And in fact, Chat lost over and over again. I've been developing this game since I first learned how to code, and tbh I am still working on the frontend, but when it's finished, it will (I believe very effectively) be able to guess your animal in 20 questions or less.
 
