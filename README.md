@@ -106,6 +106,16 @@ I recently tested ChatGPT to see if it could play 20 Questions with me (after hi
   </a>
 </p>
 
+## 🌍 Part 3
+
+This wasn't exactly 'for fun' but I did some analysis as part of a PhD interview I had on climate tipping points. I was the second best in this interview (which means I didn't get it lol-but I got a different project so it's all good). Anyway, the project was interesting and you can see my findings below.
+
+<p align="left">
+  <a href="https://github.com/amethystaurora-robo/Climate_change_analysis" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 📫 **Connect With Me**  
