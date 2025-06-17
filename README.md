@@ -5,7 +5,7 @@
 
 ## 🚀 **Future Goals & Career Aspirations**  
 ✅ **Work in computational biology, AI for environmental science, or ML research**  
-✅ **Expand expertise in deep learning & bioinformatics**  
+✅ **Expand expertise in general ML and environmental science**  
 ✅ **Collaborate on open-source projects and innovative research**  
 
 🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
