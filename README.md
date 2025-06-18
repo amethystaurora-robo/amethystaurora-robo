@@ -27,7 +27,7 @@
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_sleep.png"/>
 </p>
 
-### 🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
+### 🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) :)
 ---
 
 ## 🦔 **Environmental Modelling + Bioinformatics Projects**  
