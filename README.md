@@ -8,7 +8,7 @@
 ✅ **Expand expertise in general ML and environmental science**  
 ✅ **Collaborate on open-source projects and innovative research**  
 
-🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
+🏹 If you like what you see, please hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
 
 ---
 
