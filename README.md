@@ -79,7 +79,7 @@ As a Research Assistant, I was involved in modifying simulation code for computa
   </a>
 </p>
 
-### 🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
+### 🏹 Need someone to analyse your data? Hire me [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
 
 ---
 ## 🐞 Just for Fun
