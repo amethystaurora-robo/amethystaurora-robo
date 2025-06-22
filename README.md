@@ -98,11 +98,13 @@ Click below to find out more.
 
 ## 🐻 Part 2
 
-I recently tested ChatGPT to see if it could play 20 Questions with me (after hinting already that I am thinking of an animal). Chat lost! And in fact, Chat lost over and over again. I've been developing this game since I first learned how to code, and tbh I am still working on the frontend, but when it's finished, it will (I believe very effectively) be able to guess your animal in 20 questions or less.
+I've been developing a 20 questions game since I first learned how to code. I finally finished the front-end for it, and it's now live! Play below.
 
 <p align="left">
   <a href="https://github.com/amethystaurora-robo/Animal_Guessing_Game" target="_blank">
     <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://amethystaurora-robo-animal-guessing-game-front-end-3qe79d.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20the%20Game-7d3f4e?style=for-the-badge&logo=googleplay&logoColor=white"/>
   </a>
 </p>
 
