@@ -27,7 +27,7 @@
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_sleep.png"/>
 </p>
 
-### 🏹 If you like what you see, please consider hiring me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) :)
+### 🏹 Want dashboards like these? Hire me [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) :)
 ---
 
 ## 🦔 **Environmental Modelling + Bioinformatics Projects**  
@@ -79,7 +79,7 @@ As a Research Assistant, I was involved in modified code for computational fluid
   </a>
 </p>
 
-### 🏹 Need someone to analyse your data? Hire me [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
+### 🏹 Need an app? Hire me [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
 
 ---
 ## 🐞 Just for Fun
