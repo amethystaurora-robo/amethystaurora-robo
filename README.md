@@ -4,7 +4,7 @@
 ### Data Scientist | Computational Modeller | Researcher
 
 ## 🚀 **Future Goals**  
-✅ **Work in computational biology, AI for environmental science, or ML research**  
+✅ **Work in computational biology, environmental AI, or ML research**  
 ✅ **Expand expertise in general ML and environmental science**  
 ✅ **Collaborate on open-source projects and innovative research**  
 
