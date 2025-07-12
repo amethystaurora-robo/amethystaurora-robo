@@ -1,7 +1,7 @@
 ![My Banner](https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/github_header.png)
 
 # 👋 Hi, I'm Amethyst Aurora Eicher!
-### Computational Modeller | Data Scientist | AI Researcher
+### Computational Modeller | Data Scientist | AI & ML Researcher
 
 ## 🚀 **Future Career Goals**  
 ✅ **Start my career in computational biology, environmental AI, or ML research**  
