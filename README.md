@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Amethyst Aurora Eicher!
 ### Computational Modeller | Data Scientist | AI & ML Researcher
 
-## 🚀 **Future Career Goals**  
+## 🚀 **Future Goals**  
 ✅ **Start my career in computational biology, environmental AI, or ML research**  
 ✅ **Expand expertise in general ML and environmental science**  
 ✅ **Collaborate on open-source projects and research**  
