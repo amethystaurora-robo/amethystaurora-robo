@@ -1,20 +1,20 @@
 ![My Banner](https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/github_header.png)
 
-# 👋 Hi, I'm Amethyst Aurora Eicher!
+# Hi, I'm Amethyst Aurora Eicher!
 ### Computational Modeller | Data Scientist | AI & ML Researcher
 
-## 🚀 **Future Goals**  
-✅ **Start my career in computational biology, environmental AI, or ML research**  
-✅ **Expand expertise in general ML and environmental science**  
-✅ **Collaborate on open-source projects and research**  
+## **Future Career Goals**  
+**Start my career in computational biology, environmental AI, or ML research**  
+**Expand expertise in general ML and environmental science**  
+**Collaborate on open-source projects and research**  
 
 ### 🏹 If you like this page, please hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
 
 ---
 
-## 📈 **Portfolio**
+## **Portfolio**
 
-### 💱 Billionare Analysis
+### Billionare Analysis
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_billionaire_birthdays.png"/>
 </p>
@@ -22,17 +22,17 @@
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_billionaire_countries.png"/>
 </p>
 
-### 😴 Sleep and Health Analysis
+### Sleep and Health Analysis
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_sleep.png"/>
 </p>
 
-### 🏹 Want dashboards like these? Hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823)
+### Want dashboards like these? Hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823)
 ---
 
-## 🦔 **Environmental Modelling + Bioinformatics Projects**  
+## **Environmental Modelling + Bioinformatics Projects**  
 
-### 🧬 Computational Modelling Pipeline for Omics Data  
+### Computational Modelling Pipeline for Omics Data  
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/daphnia_overview.png" width="500">
 </p>
@@ -44,7 +44,7 @@ This complete bioinformatics pipeline integrates traditional statistical analysi
   </a>
 </p>
 
-### 🌍 Environmental Biodiversity Loss Models  
+### Environmental Biodiversity Loss Models  
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/fish_pop_chem.png" width="500"/>
 </p>
@@ -68,7 +68,7 @@ This project involved an analysis of fish populations vs. chemical concentration
   </a>
 </p>
 
-### 🤖 Application Deployment for Environmental Modelling
+### Application Deployment for Environmental Modelling
 As a Research Assistant, I was involved in modified code for computational fluid dynamics (CFD) simulations. These simulations are used to model and improve indoor air quality. For my contribution to the project, I successfully designed and deployed a desktop application, which automates the creation of inputs for the CFD simulator. 
 <p align="left">
   <img src="https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/circle_img.png" width="100">
@@ -79,12 +79,12 @@ As a Research Assistant, I was involved in modified code for computational fluid
   </a>
 </p>
 
-### 🏹 Need an app? Hire me! [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
+### Need an app? Hire me! [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
 
 ---
-## 🐞 Just for Fun
+## Just for Fun
 
-## 🐦‍⬛ Part 1
+## Part 1
 
 In a lot of languages, the word for crow and raven are the same. In English, the word 'crow' tends to be associated with a pest, or at the least common, ordinary bird. But I took a look at a phylogenetic tree and ravens are not really clustered in one area of the branchings. It made me wonder, what are the common physical differences people associate with ravens vs crows, and is there actually a difference?
 
@@ -96,7 +96,7 @@ Click below to find out more.
   </a>
 </p>
 
-## 🐻 Part 2
+## Part 2
 
 I've been developing a 20 questions game since I first learned how to code. I finally finished the front-end for it, and it's now live! Play below.
 
@@ -108,7 +108,7 @@ I've been developing a 20 questions game since I first learned how to code. I fi
   </a>
 </p>
 
-## 🌍 Part 3
+## Part 3
 
 This wasn't exactly 'for fun' but I did some analysis as part of a PhD interview I had on climate tipping points. See more below.
 
@@ -120,11 +120,11 @@ This wasn't exactly 'for fun' but I did some analysis as part of a PhD interview
 
 ---
 
-## 📫 **Connect With Me**  
+## **Connect With Me**  
 <p>
-  🏹 <a href="https://www.upwork.com/freelancers/~01218f57ed8d2bb823">UpWork</a><br>
-  💼 <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a><br>
-  📧 Email: ameest95@gmail.com
+  <a href="https://www.upwork.com/freelancers/~01218f57ed8d2bb823">UpWork</a><br>
+  <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a><br>
+  Email: ameest95@gmail.com
 </p>
 
 
