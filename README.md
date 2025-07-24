@@ -1,7 +1,7 @@
 ![My Banner](https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/github_header.png)
 
 # Hi, I'm Amethyst Aurora Eicher!
-### Computational Modeller | Data Scientist | AI & ML Researcher
+### Currently Enrolled in PhD for Computational Climate Modelling 
 
 ### If you like this page, please hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
 
