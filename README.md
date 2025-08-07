@@ -2,7 +2,7 @@
 
 # Hi, I'm Amethyst Aurora Eicher!
 ### Mathematics PhD Student
-#### Rare Event Algorithms | Climate Tipping Points | Machine Learning + Simulations
+#### Rare Event Algorithms | Climate Simulations | Machine Learning
 
 ### If you like this page, hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
 
