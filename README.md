@@ -11,8 +11,6 @@
   Email: ameest95@gmail.com
 </p>
 
-### If you like this page, hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
-
 ---
 
 ## **Portfolio**
