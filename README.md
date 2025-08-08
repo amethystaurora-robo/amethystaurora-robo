@@ -4,7 +4,6 @@
 ### Mathematics PhD Student
 #### Rare Event Algorithms | Climate Simulations | Machine Learning
 
-## **Connect With Me**  
 <p>
   <a href="https://www.upwork.com/freelancers/~01218f57ed8d2bb823">UpWork</a><br>
   <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a><br>
