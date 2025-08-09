@@ -4,7 +4,7 @@
 ### Mathematics PhD Student
 #### Rare Event Algorithms | Climate Simulations | Machine Learning
 
-#### Contact Me
+### Contact Me
 
 <p>
   <a href="https://www.upwork.com/freelancers/~01218f57ed8d2bb823">UpWork</a><br>
