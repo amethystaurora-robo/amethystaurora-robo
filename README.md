@@ -2,7 +2,7 @@
 
 # Hi, I'm Amethyst Aurora Eicher!
 ### Mathematics PhD Student
-#### Rare Event Algorithms | Climate Simulations | Machine Learning
+#### Data Analysis | Environmental Modelling | Machine Learning | AI | Software Development
 
 ### Contact Me
 
