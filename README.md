@@ -1,8 +1,8 @@
 ![My Banner](https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/github_header.png)
 
-# Hi, I'm Amethyst Aurora Eicher!
-### Mathematics PhD Student | Freelance Data Scientist
-#### Data Analysis | Environmental Modelling | Machine Learning | AI | Software Development
+# 🥸 Hi, I'm Amethyst Aurora Eicher!
+### 🧮 Mathematics PhD Student | Freelance Data Scientist
+#### 📈 Data Analysis | 🧬 Bioinformatics | 🌋 Environmental Modelling | 🤖 Machine Learning | 💡 AI | 💻 Software Development 
 
 ### Contact Me
 
