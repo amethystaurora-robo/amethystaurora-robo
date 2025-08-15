@@ -1,15 +1,15 @@
 ![My Banner](https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/github_header.png)
 
 # 🥸 Hi, I'm Amethyst Aurora Eicher!
-### 🧮 Mathematics PhD Student | Freelance Data Scientist
+### 🧮 Mathematics PhD Student | 💼 Freelance Data Scientist
 #### 📈 Data Analysis | 🧬 Bioinformatics | 🌋 Environmental Modelling | 🤖 Machine Learning | 💡 AI | 💻 Software Development 
 
 ### Contact Me
 
 <p>
-  <a href="https://www.upwork.com/freelancers/~01218f57ed8d2bb823">UpWork</a><br>
-  <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a><br>
-  Email: ameest95@gmail.com
+☕️ <a href="https://www.upwork.com/freelancers/~01218f57ed8d2bb823">UpWork</a><br>
+💼   <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a><br>
+📩 Email: ameest95@gmail.com
 </p>
 
 ---
