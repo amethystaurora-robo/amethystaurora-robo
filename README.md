@@ -112,7 +112,7 @@ I've been developing a 20 questions game since I first learned how to code. I fi
 
 ### Part 3
 
-This wasn't exactly 'for fun' but I did some analysis as part of a PhD interview I had on climate tipping points. See more below.
+This wasn't exactly 'for fun' but I did some analysis as part of a PhD interview I had on climate tipping points. The PhD I'm working on is its sister project. See more below.
 
 <p align="left">
   <a href="https://github.com/amethystaurora-robo/Climate_change_analysis" target="_blank">
