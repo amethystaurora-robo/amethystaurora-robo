@@ -84,11 +84,11 @@ As a Research Assistant, I was involved in modified code for computational fluid
 ### Need an app? Hire me! [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
 
 ---
-## Just for Fun
+## Personal Projects
 
 ### Part 1
 
-In a lot of languages, the word for crow and raven are the same. In English, the word 'crow' tends to be associated with a pest, or at the least common, ordinary bird. But I took a look at a phylogenetic tree and ravens are not really clustered in one area of the branchings. It made me wonder, what are the common physical differences people associate with ravens vs crows, and is there actually a difference?
+Is the difference between crows and ravens about their anatomy or is it just a feature of the English language?
 
 Click below to find out more.
 
@@ -112,7 +112,7 @@ I've been developing a 20 questions game since I first learned how to code. I fi
 
 ### Part 3
 
-This wasn't exactly 'for fun' but I did some analysis as part of a PhD interview I had on climate tipping points. The PhD I'm working on is its sister project. See more below.
+What are climate tipping points? An introduction
 
 <p align="left">
   <a href="https://github.com/amethystaurora-robo/Climate_change_analysis" target="_blank">
