@@ -16,7 +16,7 @@
 
 ## **📈 Data Analysis Portfolio**
 
-### Billionare Analysis
+### 🤑 Billionare Analysis
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_billionaire_birthdays.png"/>
 </p>
