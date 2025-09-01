@@ -29,7 +29,7 @@
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_sleep.png"/>
 </p>
 
-### Want dashboards like these? Hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823)
+### 📈 Want dashboards like these? Hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823)
 ---
 
 ## **Environmental Modelling + Bioinformatics Projects**  
