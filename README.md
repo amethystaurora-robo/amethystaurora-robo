@@ -32,7 +32,7 @@
 ### 📈 Want dashboards like these? Hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823)
 ---
 
-## **Environmental Modelling + Bioinformatics Projects**  
+## **🦤Environmental Modelling + Bioinformatics Projects**  
 
 ### Computational Modelling Pipeline for Omics Data  
 <p align="left">
