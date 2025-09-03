@@ -34,7 +34,7 @@
 
 ## **🦤Environmental Modelling + Bioinformatics Projects**  
 
-### Computational Modelling Pipeline for Omics Data  
+### 🦟 Computational Modelling Pipeline for Omics Data  
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/daphnia_overview.png" width="500">
 </p>
