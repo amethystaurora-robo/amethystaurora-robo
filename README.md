@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/rare_fixed.png" width="800" height="600">
+<img src="https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/rare_fixed.png" width="800">
 
 # 🥸 Hi, I'm Amethyst Aurora Eicher!
 ### 🧮 Mathematics PhD Student | 💼 Freelance Data Scientist
