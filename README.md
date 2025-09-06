@@ -1,4 +1,4 @@
-![My Banner](https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/rare_event_algorithms.png)
+<img src="https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/rare_event_algorithms.png" width="800" height="800">
 
 # 🥸 Hi, I'm Amethyst Aurora Eicher!
 ### 🧮 Mathematics PhD Student | 💼 Freelance Data Scientist
