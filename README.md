@@ -3,7 +3,7 @@
 
 # 🥸 Hi, I'm Amethyst Aurora Eicher!
 ### 🧮 Mathematics PhD Student | 💼 Freelance Data Scientist
-#### 📈 Data Analysis | 🧬 Bioinformatics | 🌋 Environmental Modelling | 🤖 Machine Learning | 💡 AI | 💻 Software Development 
+#### 📈 Data Analysis | 🌋 Environmental Modelling | 🤖 Machine Learning 
 
 ### Contact Me
 
