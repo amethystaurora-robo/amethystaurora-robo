@@ -43,7 +43,7 @@
 This complete bioinformatics pipeline integrates traditional statistical analysis and cutting-edge graph machine learning to analyse transcriptomic and metabolomic samples of *Daphnia magna*. The organism in this pipeline has been treated with ethoprophos, an organophosphate pesticide, but the pipeline could be applied to any transcriptomic and metabolomic sample datasets.
 <p align="left">
   <a href="https://github.com/amethystaurora-robo/Thesis_publication" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Repo-2b6750?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -58,16 +58,16 @@ This project involved an analysis of fish populations vs. chemical concentration
 - an academic poster, which I presented at the Partnership for the Assessment of Risks (PARC) UK Day in May 2024, and the Centre for Environmental Research and Justice (CERJ) Conference, in June 2024.
 <p align="left">
   <a href="https://github.com/amethystaurora-robo/Zhou-Group-Project" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Repo-2b6750?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://public.tableau.com/app/profile/amethyst.eicher/vizzes" target="_blank">
-    <img src="https://img.shields.io/badge/See%20Vizzes-766090?style=for-the-badge&logo=tableau&logoColor=white"/>
+    <img src="https://img.shields.io/badge/See%20Vizzes-eedb9a?style=for-the-badge&logo=tableau&logoColor=white"/>
   </a>
   <a href="https://ameest95.wixsite.com/my-site-5/about-4" target="_blank">
-    <img src="https://img.shields.io/badge/Use%20Tool-d8a8a5?style=for-the-badge&logo=tableau&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Use%20Tool-dca89c?style=for-the-badge&logo=tableau&logoColor=white"/>
   </a>
   <a href="https://github.com/amethystaurora-robo/Zhou-Group-Project/blob/main/Academic_poster_final.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Poster-7d3f4e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Download%20Poster-f2a743?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
@@ -78,7 +78,7 @@ As a Research Assistant, I was involved in modified code for computational fluid
 </p>
 <p
   <a href="https://github.com/amethystaurora-robo/MultiFlow3D/releases" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20App-7d3f4e?style=for-the-badge&logo=googleplay&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Download%20App-3366BB?style=for-the-badge&logo=googleplay&logoColor=white"/>
   </a>
 </p>
 
@@ -95,7 +95,7 @@ Click below to find out more.
 
 <p align="left">
   <a href="https://github.com/amethystaurora-robo/CrowvRaven" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Repo-ff7f6d?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -107,7 +107,7 @@ I've been developing a 20 questions game since I first learned how to code. I fi
   <a href="https://github.com/amethystaurora-robo/Animal_Guessing_Game" target="_blank">
     <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
   <a href="https://amethystaurora-robo-animal-guessing-game-front-end-3qe79d.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20the%20Game-7d3f4e?style=for-the-badge&logo=googleplay&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Play%20the%20Game-2aa198?style=for-the-badge&logo=googleplay&logoColor=white"/>
   </a>
 </p>
 
