@@ -2,5 +2,5 @@
   <style>
     .title { font: 700 20px "Segoe UI", Roboto, Arial, sans-serif; font-weight: bold;fill: #2b6750; }
   </style>
-  <text x="0" y="10" class="title">Environmental Modelling Portfolio</text>
+  <text x="0" y="20" class="title">Environmental Modelling Portfolio</text>
 </svg>
