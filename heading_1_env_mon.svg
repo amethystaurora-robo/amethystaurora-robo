@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="50">
   <style>
-    .title { font: 500 28px "Segoe UI", Roboto, Arial, sans-serif; fill: #2b6750; }
+    .title { font: 300 28px "Segoe UI", Roboto, Arial, sans-serif; fill: #2b6750; }
   </style>
   <text x="0" y="40" class="title">Environmental Modelling Portfolio</text>
 </svg>
