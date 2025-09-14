@@ -34,7 +34,7 @@
 ---
 
 ## **🦤Environmental Modelling Portfolio**  
-![Environmental Modelling Portfolio](heading.svg)
+![Environmental Modelling Portfolio](heading_1_env_mon.svg)
 
 ### 🦟 Computational Modelling Pipeline for Omics Data  
 <p align="left">
