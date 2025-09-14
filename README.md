@@ -32,8 +32,6 @@
 
 ### 📈 Want dashboards like these? Hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823)
 ---
-
-## **🦤Environmental Modelling Portfolio**  
 ## **![Environmental Modelling Portfolio](heading_1_env_mon.svg)**
 
 ### 🦟 Computational Modelling Pipeline for Omics Data  
