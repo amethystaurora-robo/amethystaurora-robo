@@ -34,7 +34,6 @@
 ---
 
 ## **🦤Environmental Modelling Portfolio**  
-
 ### 🦟 Computational Modelling Pipeline for Omics Data  
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/daphnia_overview.png" width="500">
@@ -48,7 +47,6 @@ This complete bioinformatics pipeline integrates traditional statistical analysi
 </p>
 
 <h3 style="color:#2b6750;">Environmental Biodiversity Loss Models</h3>
-![Environmental Biodiversity Loss Models](https://img.shields.io/badge/Environmental%20Biodiversity%20Loss%20Models-1E90FF?style=for-the-badge)
 
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/fish_pop_chem.png" width="500"/>
