@@ -33,7 +33,7 @@
 ### 📈 Want dashboards like these? Hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823)
 ---
 
-## **🦤Environmental Modelling + Bioinformatics Projects**  
+## **🦤Environmental Modelling Portfolio**  
 
 ### 🦟 Computational Modelling Pipeline for Omics Data  
 <p align="left">
@@ -47,7 +47,7 @@ This complete bioinformatics pipeline integrates traditional statistical analysi
   </a>
 </p>
 
-### Environmental Biodiversity Loss Models  
+<h3 style="color:#2b6750;">Environmental Biodiversity Loss Models</h3>
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/fish_pop_chem.png" width="500"/>
 </p>
