@@ -34,8 +34,7 @@
 ---
 ![Environmental Modelling Portfolio](heading_1_env_mon.svg)
 ---
-
-### 🦟 Computational Modelling Pipeline for Omics Data  
+![Computational Modelling Pipeline for Omics Data](heading_2_pipeline.svg)
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/daphnia_overview.png" width="500">
 </p>
