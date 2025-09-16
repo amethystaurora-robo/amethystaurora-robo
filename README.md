@@ -6,8 +6,6 @@
 ### 🧮 Mathematics PhD Student | 💼 Freelance Data Scientist
 #### 📈 Data Analysis | 🌋 Environmental Modelling | 🤖 Machine Learning 
 ---
-### Contact Me
-
 <p>
 ☕️ <a href="https://www.upwork.com/freelancers/~01218f57ed8d2bb823">UpWork</a><br>
 💼   <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a><br>
