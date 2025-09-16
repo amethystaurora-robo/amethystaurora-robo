@@ -47,6 +47,7 @@ This complete bioinformatics pipeline integrates traditional statistical analysi
   </a>
 </p>
 ---
+
 ![Environmental Biodiversity Loss Models](heading_3_biodiversity.svg)
 ---
 
@@ -73,6 +74,7 @@ This project involved an analysis of fish populations vs. chemical concentration
   </a>
 </p>
 ---
+
 ![Application Deployment for Environmental Modelling](heading_4_app.svg)
 ---
 <p>
