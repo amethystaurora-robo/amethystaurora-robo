@@ -32,10 +32,9 @@
 
 ### 📈 Want dashboards like these? Hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823)
 ---
-![Environmental Modelling Portfolio](heading_1_env_mon.svg)
+## Environmental Modelling
 ---
 ![Computational Modelling Pipeline for Omics Data](heading_2_pipeline.svg)
----
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/daphnia_overview.png" width="500">
 </p>
@@ -46,7 +45,6 @@ This complete bioinformatics pipeline integrates traditional statistical analysi
     <img src="https://img.shields.io/badge/View%20Repo-2b6750?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
----
 
 ![Environmental Biodiversity Loss Models](heading_3_biodiversity.svg)
 ---
@@ -73,7 +71,6 @@ This project involved an analysis of fish populations vs. chemical concentration
     <img src="https://img.shields.io/badge/Download%20Poster-f2a743?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
----
 
 ![Application Deployment for Environmental Modelling](heading_4_app.svg)
 ---
