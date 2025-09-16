@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40">
+  <style>
+    .title { 
+      font-family: "Segoe UI", Roboto, Arial, sans-serif; 
+      font-size: 20px; 
+      font-weight: bold; 
+      fill: #2b6750; 
+    }
+  </style>
+  <text x="0" y="30" class="title">Environmental Biodiversity Loss Models</text>
+</svg>
