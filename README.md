@@ -46,7 +46,7 @@ This complete bioinformatics pipeline integrates traditional statistical analysi
   </a>
 </p>
 
-<h3 style="color:#2b6750;">Environmental Biodiversity Loss Models</h3>
+![Environmental Biodiversity Loss Models](heading_3_biodiversity.svg)
 
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/fish_pop_chem.png" width="500"/>
@@ -71,8 +71,10 @@ This project involved an analysis of fish populations vs. chemical concentration
   </a>
 </p>
 
-### Application Deployment for Environmental Modelling
+![Application Deployment for Environmental Modelling](heading_4_app.svg)
+<p>
 As a Research Assistant, I was involved in modified code for computational fluid dynamics (CFD) simulations. These simulations are used to model and improve indoor air quality. For my contribution to the project, I successfully designed and deployed a desktop application, which automates the creation of inputs for the CFD simulator. 
+  </p>
 <p align="left">
   <img src="https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/circle_img.png" width="100">
 </p>
