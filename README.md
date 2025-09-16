@@ -35,6 +35,7 @@
 ![Environmental Modelling Portfolio](heading_1_env_mon.svg)
 ---
 ![Computational Modelling Pipeline for Omics Data](heading_2_pipeline.svg)
+---
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/daphnia_overview.png" width="500">
 </p>
@@ -45,8 +46,9 @@ This complete bioinformatics pipeline integrates traditional statistical analysi
     <img src="https://img.shields.io/badge/View%20Repo-2b6750?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
+---
 ![Environmental Biodiversity Loss Models](heading_3_biodiversity.svg)
+---
 
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/fish_pop_chem.png" width="500"/>
@@ -70,8 +72,9 @@ This project involved an analysis of fish populations vs. chemical concentration
     <img src="https://img.shields.io/badge/Download%20Poster-f2a743?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
-
+---
 ![Application Deployment for Environmental Modelling](heading_4_app.svg)
+---
 <p>
 As a Research Assistant, I was involved in modified code for computational fluid dynamics (CFD) simulations. These simulations are used to model and improve indoor air quality. For my contribution to the project, I successfully designed and deployed a desktop application, which automates the creation of inputs for the CFD simulator. 
   </p>
