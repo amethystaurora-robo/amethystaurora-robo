@@ -2,9 +2,10 @@
 
 
 # Amethyst Aurora Eicher
+---
 ### 🧮 Mathematics PhD Student | 💼 Freelance Data Scientist
 #### 📈 Data Analysis | 🌋 Environmental Modelling | 🤖 Machine Learning 
-
+---
 ### Contact Me
 
 <p>
