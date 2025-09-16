@@ -88,45 +88,6 @@ As a Research Assistant, I was involved in modified code for computational fluid
 
 ### Need an app? Hire me! [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823) 
 
----
-## Personal Projects
-
-### Part 1
-
-Is the difference between crows and ravens about their anatomy or is it just a feature of the English language?
-
-Click below to find out more.
-
-<p align="left">
-  <a href="https://github.com/amethystaurora-robo/CrowvRaven" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repo-ff7f6d?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-### Part 2
-
-I've been developing a 20 questions game since I first learned how to code. I finally finished the front-end for it, and it's now live! Play below.
-
-<p align="left">
-  <a href="https://github.com/amethystaurora-robo/Animal_Guessing_Game" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
-  <a href="https://amethystaurora-robo-animal-guessing-game-front-end-3qe79d.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20the%20Game-2aa198?style=for-the-badge&logo=googleplay&logoColor=white"/>
-  </a>
-</p>
-
-### Part 3
-
-What are climate tipping points? An introduction
-
-<p align="left">
-  <a href="https://github.com/amethystaurora-robo/Climate_change_analysis" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repo-059541?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-
-
 
 
 <!---
