@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/rare_fixed.png" width="800">
 
 
-# Amethyst Aurora Eicher
----
+<div style="font-size:72px; font-weight:bold;">Amethyst Aurora Eicher</div>
+<hr style="border:2px solid #000;" />
+
 ### 🧮 Mathematics PhD Student | 💼 Freelance Data Scientist
 #### 📈 Data Analysis | 🌋 Environmental Modelling | 🤖 Machine Learning 
 ---
