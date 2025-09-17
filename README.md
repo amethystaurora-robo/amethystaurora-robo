@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/rare_fixed.png" width="800">
 
 
-<div style="font-size:72px; font-weight:bold;">Amethyst Aurora Eicher</div>
-<hr style="border:2px solid #000;" />
-
+# Amethyst Aurora Eicher
 ### 🧮 Mathematics PhD Student | 💼 Freelance Data Scientist
 #### 📈 Data Analysis | 🌋 Environmental Modelling | 🤖 Machine Learning 
 ---
@@ -15,24 +13,21 @@
 
 ---
 
-## **📈 Data Analysis Portfolio**
-
-### 🤑 Billionare Analysis
+### **📈 Data Analysis Portfolio**
+---
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_billionaire_birthdays.png"/>
 </p>
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_billionaire_countries.png"/>
 </p>
-
-### 😴 Sleep and Health Analysis
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_sleep.png"/>
 </p>
 
 ### 📈 Want dashboards like these? Hire me on [UpWork](https://www.upwork.com/freelancers/~01218f57ed8d2bb823)
 ---
-## Environmental Modelling
+### Environmental Modelling
 ---
 ![Computational Modelling Pipeline for Omics Data](heading_2_pipeline.svg)
 <p align="left">
