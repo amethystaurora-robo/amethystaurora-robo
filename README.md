@@ -31,7 +31,7 @@
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/daphnia_overview.png" width="500">
 </p>
 
-This complete bioinformatics pipeline integrates traditional statistical analysis and cutting-edge graph machine learning to analyse transcriptomic and metabolomic samples of *Daphnia magna*. The organism in this pipeline has been treated with ethoprophos, an organophosphate pesticide, but the pipeline could be applied to any transcriptomic and metabolomic sample datasets.
+This bioinformatics pipeline integrates traditional statistical analysis and cutting-edge graph machine learning to analyse transcriptomic and metabolomic samples of *Daphnia magna*. The organism in this pipeline has been treated with ethoprophos, an organophosphate pesticide, but the pipeline could be applied to any transcriptomic and metabolomic sample datasets.
 <p align="left">
   <a href="https://github.com/amethystaurora-robo/Thesis_publication" target="_blank">
     <img src="https://img.shields.io/badge/View%20Repo-2b6750?style=for-the-badge&logo=github&logoColor=white"/>
