@@ -23,7 +23,7 @@
 </p>
 
 ---
-### Environmental Science Research
+### Environmental Science Research + Bioinformatics
 ---
 ![Computational Modelling Pipeline for Omics Data](heading_2_pipeline.svg)
 <p align="left">
