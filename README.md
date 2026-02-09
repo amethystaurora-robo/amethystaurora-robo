@@ -4,8 +4,7 @@
 # Amethyst Aurora Eicher
 ### Mathematics PhD Student
 ### 🌋 Climate Modelling | Rare Event Algorithms | 🤖 Machine Learning | 📈 Data Analysis 
-<p>
-☕️ <a href="https://www.upwork.com/freelancers/~01218f57ed8d2bb823">UpWork</a> | 💼   <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a> | 📩 Email: ameest95@gmail.com
+<p> 💼   <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a> | 📩 Email: ameest95@gmail.com
 </p>
 
 ---
