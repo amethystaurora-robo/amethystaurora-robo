@@ -9,7 +9,7 @@
 
 ---
 
-### **📈 Data Analysis Portfolio**
+### **📈 Data Analysis**
 ---
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/portfolio_billionaire_birthdays.png"/>
