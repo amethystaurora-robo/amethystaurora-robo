@@ -65,7 +65,7 @@ This project involved an analysis of fish populations vs. chemical concentration
 ![Application Deployment for Environmental Modelling](heading_4_app.svg)
 ---
 <p>
-As a Research Assistant, I was involved in modifying code for computational fluid dynamics (CFD) simulations. These simulations are used to model and improve indoor air quality. For my contribution to the project, I successfully designed and deployed a desktop application, which automates the creation of inputs for the simulator. 
+My project as a Research Assistant at University of Birmingham was computational fluid dynamics (CFD) simulations used to model and improve indoor air quality. For my contribution to the project, I successfully designed and deployed a desktop application, which automates the creation of inputs for the simulator. 
   </p>
 <p align="left">
   <img src="https://raw.githubusercontent.com/amethystaurora-robo/amethystaurora-robo/main/circle_img.png" width="100">
