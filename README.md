@@ -3,7 +3,7 @@
 
 # Amethyst Aurora Eicher
 ### Mathematics PhD Student
-### 🌋 Climate Modelling | Dynamical Systems | Rare Event Algorithms | 🤖 Machine Learning | 📈 Data Analysis 
+### 🌋 Climate Modelling | Dynamical Systems | Rare Event Algorithms | 🤖 Machine Learning
 <p> 💼   <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a> | 📩 Email: ameest95@gmail.com
 </p>
 
