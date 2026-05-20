@@ -6,7 +6,9 @@
 ### 🌋 Climate Modelling | Rare Event Algorithms | 🤖 Machine Learning
 <p> 💼   <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a> | 📩 Email: ameest95@gmail.com
 </p>
+<p>
 Coming Soon: PhD Overview
+</p>
 ---
 
 ### **📈 Data Analysis**
