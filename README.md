@@ -7,7 +7,7 @@
 <p> 💼   <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a> | 📩 Email: ameest95@gmail.com
 </p>
 <p>
-Coming Soon: PhD Overview on Studying Tipping Points and Noise-Induced Transitions in the Climate System with Rare Event Simulation Techniques
+Coming Soon: PhD Overview: Studying Tipping Points and Noise-Induced Transitions in the Climate System with Rare Event Simulation Techniques
 </p>
 
 ### **📈 Data Analysis**
