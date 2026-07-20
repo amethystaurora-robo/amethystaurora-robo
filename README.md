@@ -2,12 +2,33 @@
 
 
 # Amethyst Aurora Eicher
-### Mathematics PhD Student
+### Mathematics PhD Student Studying Tipping Points in Climate
 ### 🌋 Computational Climate Modelling | Machine Learning & Statistics
 <p> 💼   <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a> | 📩 Email: ameest95@gmail.com
 </p>
 
----
+### Tipping Points
+
+Many systems can exhibit multi-stability, where they may tip from one stable state to another. This is of particular concern in climate change, where the collapse of a sub-system may have far-reaching effects on other climate systems, ecosystems, and the human economy and way of life.
+
+I study tipping of the Atlantic Meridional Overturning Circulation (AMOC), the Atlantic Ocean's largest ocean current. See the details of my work below:
+
+<p align="left">
+  <a href="https://github.com/amethystaurora-robo/numerical_integration_exercises" target="_blank">
+    <img src="https://img.shields.io/badge/%20Models-F9E050?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/amethystaurora-robo/Rare_event_algorithms" target="_blank">
+    <img src="https://img.shields.io/badge/%20Model%201a-FF6A45?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
+  <a href="https://github.com/amethystaurora-robo/EWS_Gottwald" target="_blank">
+    <img src="https://img.shields.io/badge/%20Model%201b-FF8C4D?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
+  <a href="https://github.com/amethystaurora-robo/plasim_rare_events" target="_blank">
+    <img src="https://img.shields.io/badge/%20Model%202-F6B07A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+### Past Projects
 ![Computational Modelling Pipeline for Omics Data](heading_2_pipeline.svg)
 <p align="left">
   <img src="https://github.com/amethystaurora-robo/amethystaurora-robo/blob/main/daphnia_overview.png" width="500">
