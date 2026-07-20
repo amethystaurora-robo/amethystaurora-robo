@@ -6,9 +6,7 @@
 ### 🌋 Computational Climate Modelling | Machine Learning & Statistics
 <p> 💼   <a href="https://www.linkedin.com/in/amethyst-eicher-1a5998216/">LinkedIn</a> | 📩 Email: ameest95@gmail.com
 </p>
-### PhD on Tipping Points
----
-### Past Projects: MSc Bioinformatics and Research Assitant
+
 ---
 ![Computational Modelling Pipeline for Omics Data](heading_2_pipeline.svg)
 <p align="left">
